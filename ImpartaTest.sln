@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImpartaTest.Server", "ImpartaTest.Server\ImpartaTest.Server.csproj", "{949A46DD-8885-4962-A614-E373E98564FB}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "impartatest.client", "impartatest.client\impartatest.client.esproj", "{AD92EB85-A22A-4ABD-BE88-B22FA9413C45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{949A46DD-8885-4962-A614-E373E98564FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{949A46DD-8885-4962-A614-E373E98564FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{949A46DD-8885-4962-A614-E373E98564FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{949A46DD-8885-4962-A614-E373E98564FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD92EB85-A22A-4ABD-BE88-B22FA9413C45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD92EB85-A22A-4ABD-BE88-B22FA9413C45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD92EB85-A22A-4ABD-BE88-B22FA9413C45}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AD92EB85-A22A-4ABD-BE88-B22FA9413C45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD92EB85-A22A-4ABD-BE88-B22FA9413C45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD92EB85-A22A-4ABD-BE88-B22FA9413C45}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {884BA034-59AB-4A13-A65F-01CA76AC9681}
+	EndGlobalSection
+EndGlobal

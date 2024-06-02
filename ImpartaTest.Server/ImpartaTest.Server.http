@@ -1,0 +1,6 @@
+@ImpartaTest.Server_HostAddress = http://localhost:5120
+
+GET {{ImpartaTest.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
