@@ -1,7 +1,7 @@
 # ImpartaTest
 
 ## Overview
-[Description of your project]
+The Task List project is a web application designed to help users manage their tasks efficiently. With intuitive features and a user-friendly interface, it simplifies the process of organizing and tracking tasks, ensuring that users stay productive and focused on their goals.
 
 ## Getting Started
 
